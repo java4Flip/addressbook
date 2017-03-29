@@ -1,4 +1,4 @@
-package edu.itdc.training.demo.test;
+package edu.itdc.training.test;
 
 import static org.junit.Assert.assertEquals;
 
